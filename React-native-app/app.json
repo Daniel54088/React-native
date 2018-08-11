@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "name": "Daniel App",
+    "icon": "https://s3.amazonaws.com/exp-us-standard/rnplay/app-icon.png",
+    "version": "1.0.0",
+    "slug": "test1",
+    "ios": {
+      "bundleIdentifier": "com.funpodium.test"
+    },
+  }
+}
